@@ -29,7 +29,7 @@ block content
 
                 if project.shape === 'triangle'
                     a(href="#{project.url}" target="_blank")
-                        .project.tr
+                        .project.tr(class="#{project.color}")
                             .one(class="#{project.color}")
                                 .two(style="background-image: url('#{project.img}');" + "background-position: 50% 50%;")
 

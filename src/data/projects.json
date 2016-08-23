@@ -143,7 +143,7 @@
     "title": "Where Your State Gets Its Money",
     "position": "left",
     "color": "blue",
-    "shape": "triangle",
+    "shape": "circle",
     "type": "graphic",
     "pub_date": "2015-04-16 12:00",
     "img": "https://espnfivethirtyeight.files.wordpress.com/2015/04/casselman-datalab-statetaxes.png",
@@ -178,16 +178,6 @@
     "pub_date": "2014-12-05 12:00",
     "img": "https://espnfivethirtyeight.files.wordpress.com/2016/08/screenshot-2016-08-23-17-07-44.png",
     "url": "http://fivethirtyeight.com/features/beer-mile-chug-run-repeat/"
-  },
-  {
-    "title": "The Most Conservative And Liberal Law Schools",
-    "position": "right",
-    "color": "red",
-    "shape": "circle",
-    "type": "graphic",
-    "pub_date": "2014-12-05 12:00",
-    "img": "https://espnfivethirtyeight.files.wordpress.com/2014/12/roeder-feature-lawschools1.png?w=575",
-    "url": "http://fivethirtyeight.com/features/the-most-conservative-and-most-liberal-elite-law-schools/"
   },
   {
     "title": "Who Makes It To The Supreme Court?",
@@ -388,16 +378,6 @@
     "pub_date": "2012-09-13 12:00",
     "img": "/images/brain.gif",
     "url": "http://www.buzzfeed.com/atmccann/this-is-your-brain-on-google-and-facebook-ads-8c7c#.lfonxOmpL"
-  },
-  {
-    "title": "How Your Phone Screen Shatters",
-    "position": "left",
-    "color": "red",
-    "shape": "triangle",
-    "type": "words",
-    "pub_date": "2012-08-13 12:00",
-    "img": "/images/shatter.png",
-    "url": "http://www.buzzfeed.com/atmccann/how-your-phones-screen-shatters#.ccpGJdxXg"
   },
   {
     "title": "a",

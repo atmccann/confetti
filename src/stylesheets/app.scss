@@ -4,6 +4,11 @@
 
 body {
     font-family: Helvetica;
+    background-color: #ffe100;
+}
+
+#work {
+    margin-left: 15px;
 }
 
 .social-btns {
@@ -22,7 +27,7 @@ a.social {
         height: 30px;
 
         &:hover path {
-            fill: #ffe100;
+            fill: #fa4a5a;
         }
     }
 
@@ -45,36 +50,12 @@ a.social {
 
     .project {
 
-        margin: 35px;
-
-        @include breakpoint($M) {
-            width: 100%
-        }
-
-        &.red {
-            border: 5px solid #fa4a5a;
-        }
-
-        &.yellow {
-            border: 5px solid #ffe100;
-        }
-
-        &.green {
-            border: 5px solid #44ab43;
-        }
-
-        &.blue {
-            border: 5px solid #0068F8;
-        }
+        margin: 25px;
 
         &.letter {
             font-size: 50px;
             font-weight: bold;
             text-transform: uppercase;
-
-            @include breakpoint($ML) {
-                color: red;
-            }
 
             &.left {
                 -ms-transform: rotate(-21deg); /* IE 9 */
@@ -94,15 +75,21 @@ a.social {
             height: 100px;
             border-radius: 50%;
 
-            @include breakpoint($M) {
-                width: 100%
+            &.red {
+                border: 5px solid #fa4a5a;
             }
 
+            &.yellow {
+                border: 5px solid #44ab43;
+            }
 
-        &:hover {
-            border: 5px solid #ffe100;
-            cursor: pointer;
-        }
+            &.blue {
+                border: 5px solid #0068F8;
+            }
+
+            &:hover {
+                border: 5px solid #000;
+            }
 
         }
 
@@ -110,8 +97,23 @@ a.social {
             width: 232px; 
             height: 180px; 
             overflow: hidden;
-            transform: rotate(-14deg); 
-            border-bottom: 5px solid #0068F8;
+            transform: rotate(-14deg);
+
+            &.red {
+                border-bottom: 5px solid #fa4a5a;
+            }
+
+            &.yellow {
+                border-bottom: 5px solid #44ab43;
+            }
+
+            &.blue {
+                border-bottom: 5px solid #0068F8;
+            }
+
+            &:hover {
+                border-bottom: 5px solid #000;
+            }
 
             .one {
                 position: relative; 
@@ -120,14 +122,27 @@ a.social {
                 width: 200px;
                 height: 200px;
                 margin: 83px 0 0 14px;
-                border-left: 5px solid #0068F8;
-                border-top: 5px solid #0068F8;
+
+                &.red {
+                    border-left: 5px solid #fa4a5a;
+                    border-top: 5px solid #fa4a5a;
+                }
+
+                &.yellow {
+                    border-left: 5px solid #44ab43;
+                    border-top: 5px solid #44ab43;
+                }
+
+                &.blue {
+                    border-left: 5px solid #0068F8;
+                    border-top: 5px solid #0068F8;
+                }
 
                 &:hover {
-                    border-left: 5px solid #ffe100;
-                    border-top: 5px solid #ffe100;
-                    cursor: pointer;
+                    border-left: 5px solid #000;
+                    border-top: 5px solid #000;
                 }
+
             }
 
             .two {
@@ -151,10 +166,22 @@ a.social {
             -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
             transform: rotate(7deg);
 
-        &:hover {
-            border: 5px solid #ffe100;
-            cursor: pointer;
-        }
+        
+            &.red {
+                border: 5px solid #fa4a5a;
+            }
+
+            &.yellow {
+                border: 5px solid #44ab43;
+            }
+
+            &.blue {
+                border: 5px solid #0068F8;
+            }
+
+            &:hover {
+                border: 5px solid #000;
+            }
 
         }
     }
@@ -165,4 +192,5 @@ a.social {
     padding-top: 15px;
     border-top: 2px solid #222;
     letter-spacing: 1px;
+    line-height: 1.3;
 }
