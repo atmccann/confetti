@@ -1,0 +1,26 @@
+{
+  "name": "confetti",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "gulp"
+  },
+  "private": true,
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "underscore": "~1.6.0",
+    "d3": "~3.4.6",
+    "jquery": "~2.1.1",
+    "pym.js": "fivethirtyeight/pym.js",
+    "@fivethirtyeight/interactive-utils": "^1.0.1",
+    "@fivethirtyeight/interactive-styles": "^1.0.1",
+    "breakpoint-sass": "^2.7.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.5",
+    "@fivethirtyeight/interactive-gulp-tasks": "^1.0.2"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
