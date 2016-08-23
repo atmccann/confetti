@@ -28,8 +28,9 @@ gulp.task('images-bust', ['images'], fiveThirtyEightGulpTasks.images.bust());
 
 
 var extraTemplateVars = {
-  pageconfig: pageconfig,
-  utils: require("./src/js/utils.js")
+  utils: require("./src/js/utils.js"),
+  data: require("./src/data/projects.json"),
+  _: require("underscore")
 };
 
 

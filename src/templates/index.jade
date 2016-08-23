@@ -1,62 +1,25 @@
 
 extends layouts/fullpage
 
-
 block content
 
-  .container
+    .projects
+        -var projects = utils.sortByDate(data);
+        for project, i in projects
+            if project.shape === 'circle'
+                a(href="#{project.url}" target="_blank")
+                    .project.cir(style="background-image: url('#{project.img}')")
+                    
+            else if project.shape === 'square'
+                a(href="#{project.url}" target="_blank")
+                    .project.sq(style="background-image: url('#{project.img}')")
 
-    #intro
-      .timestamp-container
-        p.timestamp
-          | PUBLISHED #{utils.formatPublishTime(new Date())}
-
-      h1 Headline For This Sweet Interactive
-      h2.article-subtitle
-        | A short read-in explaining what it is in simple terms
-
-      p.methodology-link
-        a(href='')
-          | Methodology link »
-
-      p.byline
-        | By
-        span.author 
-          a(href='')
-            | Author&nbsp;One
-        |  and 
-        span.author
-          a(href='')
-            | Author&nbsp;Two
-
-  .container
-
-    //- INTERACTIVE GOES HERE
-    
-    img(src='http://loremflickr.com/500/500/map', style='float:left;')
-    img(src='http://loremflickr.com/500/500/math', style='float:left; margin-left: 20px;')
-    div(style='clear:both;')
+            else if project.shape === 'triangle'
+                a(href="#{project.url}" target="_blank")
+                    .project.tr
+                        .one
+                            .two(style="background-image: url('#{project.img}')")
 
 
-block credits
-  .container
-    #footer
-      .notes
-        p *Some notes go here. They can be long. Totally fine if they go onto two lines.
 
-      .additional-credits
-        p Additional contributions from 
-          a(href='') Author Three
-          |  and 
-          a(href='') Author Four
-          | .
-
-      .sources
-        p Sources: 
-          a(href='') Source One
-          | ; 
-          a(href='') Source Two
-          | ; 
-          a(href='') Source Three
-          | .
 

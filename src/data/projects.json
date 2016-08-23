@@ -1,0 +1,422 @@
+[
+  {
+    "title": "Hip-Hop Is Turning On Donald Trump",
+    "length": "short",
+    "color": "black",
+    "shape": "circle",
+    "type": "graphic",
+    "pub_date": "7/14/2016 16:00:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2016/07/screenshot-2016-07-18-17-57-22.png",
+    "url": "https://projects.fivethirtyeight.com/clinton-trump-hip-hop-lyrics/"
+  },
+  {
+    "title": "2016 General Election Forecast",
+    "length": "short",
+    "color": "black",
+    "shape": "square",
+    "type": "graphic",
+    "pub_date": "6/1/2016 16:00:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2016/07/screenshot-2016-07-18-18-01-03.png",
+    "url": "http://projects.fivethirtyeight.com/2016-election-forecast/"
+  },
+  {
+    "title": "A/B Tests in Music",
+    "length": "short",
+    "color": "white",
+    "shape": "triangle",
+    "type": "words",
+    "pub_date": "5/20/2016 16:00:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2016/05/jk4a6893-edit.jpg?w=575",
+    "url": "https://fivethirtyeight.com/features/the-worst-thing-that-can-happen-is-we-make-a-bad-song/"
+  },
+  {
+    "title": "2016 MLB Predictions",
+    "length": "long",
+    "color": "white",
+    "shape": "circle",
+    "type": "graphic",
+    "pub_date": "4/25/2016 16:00:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2016/04/promo_square.gif",
+    "url": "http://projects.fivethirtyeight.com/2016-mlb-predictions/"
+  },
+  {
+    "title": "NWSL Predictions",
+    "length": "short",
+    "color": "white",
+    "shape": "square",
+    "type": "words",
+    "pub_date": "4/15/2016 16:00:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2016/04/gettyimages-490925020-e1460665790646.jpg",
+    "url": "https://fivethirtyeight.com/features/fivethirtyeights-national-womens-soccer-league-predictions/"
+  },
+  {
+    "title": "East Des Moines",
+    "length": "long",
+    "color": "white",
+    "shape": "triangle",
+    "type": "graphic",
+    "pub_date": "2016-01-22 16:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2016/01/koeze-mccann-desmoines-2-crop-02.png",
+    "url": "http://fivethirtyeight.com/features/candidates-arent-visiting-poorer-parts-of-des-moines/"
+  },
+  {
+    "title": "The Race To The Oscars",
+    "length": "short",
+    "color": "black",
+    "shape": "circle",
+    "type": "graphic",
+    "pub_date": "2016-02-05 16:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2016/01/week_1-5.png?w=300&h=225&crop=1",
+    "url": "http://projects.fivethirtyeight.com/oscars-2016/"
+  },
+  {
+    "title": "The Nicki Effect",
+    "length": "short",
+    "color": "black",
+    "shape": "square",
+    "type": "words",
+    "pub_date": "2015-12-21 16:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2015/12/mccann-nickieffect-3.png",
+    "url": "http://fivethirtyeight.com/features/drake-effect-nick-minaj/"
+  },
+  {
+    "title": "Swing The Election",
+    "length": "short",
+    "color": "black",
+    "shape": "triangle",
+    "type": "graphic",
+    "pub_date": "2015-12-03 12:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2015/12/screen_shot_2015-12-02_at_4-33-50_pm_720.png?w=575",
+    "url": "http://projects.fivethirtyeight.com/2016-swing-the-election/"
+  },
+  {
+    "title": "CARMELO",
+    "length": "short",
+    "color": "white",
+    "shape": "circle",
+    "type": "graphic",
+    "pub_date": "2015-10-09 14:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2015/10/carmelo_lede.png?w=575",
+    "url": "http://projects.fivethirtyeight.com/carmelo/"
+  },
+  {
+    "title": "Trump Attacks",
+    "length": "short",
+    "color": "black",
+    "shape": "square",
+    "type": "graphic",
+    "pub_date": "2015-08-27 13:00",
+    "img": "http://espnfivethirtyeight.files.wordpress.com/2015/08/enten-mccann-datalab-trump1.png",
+    "url": "http://fivethirtyeight.com/features/when-donald-trump-attacks-gop/"
+  },
+  {
+    "title": "How Your Favorite Baseball Team Blows Its Money",
+    "length": "short",
+    "color": "black",
+    "shape": "triangle",
+    "type": "graphic",
+    "pub_date": "2015-07-08 12:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2015/07/lopez-feature-mlbpayroll4.png",
+    "url": "http://fivethirtyeight.com/features/how-your-favorite-baseball-team-blows-its-money/"
+  },
+  {
+    "title": "The Greatest Women's Soccer Game Of All Time",
+    "length": "short",
+    "color": "white",
+    "shape": "circle",
+    "type": "words",
+    "pub_date": "2015-06-30 14:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2015/06/gettyimages-478653110-e1435682565486.jpg?w=575",
+    "url": "https://fivethirtyeight.com/datalab/u-s-vs-germany-is-the-greatest-womens-world-cup-game-of-all-time/"
+  },
+  {
+    "title": "Women's World Cup Preview",
+    "length": "short",
+    "color": "white",
+    "shape": "square",
+    "type": "words",
+    "pub_date": "2015-06-03 14:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2015/05/3-1.jpg?w=1024",
+    "url": "https://fivethirtyeight.com/features/womens-world-cup-preview-the-u-s-has-company-in-the-lead/"
+  },
+  {
+    "title": "2015 Women's World Cup Predictions",
+    "length": "long",
+    "color": "black",
+    "shape": "triangle",
+    "type": "graphic",
+    "pub_date": "2015-06-02 14:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2016/01/women-worldcup-homepage.gif",
+    "url": "http://projects.fivethirtyeight.com/womens-world-cup/"
+  },
+  {
+    "title": "Where Your State Gets Its Money",
+    "length": "long",
+    "color": "black",
+    "shape": "circle",
+    "type": "graphic",
+    "pub_date": "2015-04-16 12:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2015/04/casselman-datalab-statetaxes.png",
+    "url": "http://fivethirtyeight.com/features/where-your-state-gets-its-money/"
+  },
+  {
+    "title": "2015 March Madness Predictions",
+    "length": "short",
+    "color": "black",
+    "shape": "square",
+    "type": "graphic",
+    "pub_date": "2015-04-05 12:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2015/03/screen-shot-2015-03-15-at-9-53-35-pm1.png?w=575",
+    "url": "https://fivethirtyeight.com/interactives/march-madness-predictions-2015/#mens"
+  },
+  {
+    "title": "Every NBA Team’s Chance Of Winning In Every Minute Across Every Game",
+    "length": "long",
+    "color": "black",
+    "shape": "triangle",
+    "type": "graphic",
+    "pub_date": "2015-02-18 12:00",
+    "img": "/images/nbawinprob.png",
+    "url": "https://fivethirtyeight.com/features/every-nba-teams-chance-of-winning-in-every-minute-across-every-game/"
+  },
+  {
+    "title": "Gillian Jacobs Q&A",
+    "length": "long",
+    "color": "white",
+    "shape": "circle",
+    "type": "words",
+    "pub_date": "2015-01-30 12:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2015/01/dn-sc-84-06783.jpg?w=575",
+    "url": "http://fivethirtyeight.com/datalab/a-qa-with-gillian-jacobs/"
+  },
+  {
+    "title": "Chug, Run, Repeat",
+    "length": "short",
+    "color": "white",
+    "shape": "square",
+    "type": "words",
+    "pub_date": "2014-12-05 12:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2014/12/beermile-homepage-art.png?w=575",
+    "url": "http://fivethirtyeight.com/features/beer-mile-chug-run-repeat/"
+  },
+  {
+    "title": "The Most Conservative And Liberal Law Schools",
+    "length": "long",
+    "color": "black",
+    "shape": "triangle",
+    "type": "graphic",
+    "pub_date": "2014-12-05 12:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2014/12/roeder-feature-lawschools1.png?w=575",
+    "url": "http://fivethirtyeight.com/features/the-most-conservative-and-most-liberal-elite-law-schools/"
+  },
+  {
+    "title": "Who Makes It To The Supreme Court?",
+    "length": "long",
+    "color": "black",
+    "shape": "circle",
+    "type": "graphic",
+    "pub_date": "2014-11-02 12:00",
+    "img": "/images/supreme.png",
+    "url": "http://fivethirtyeight.com/features/the-supreme-court-wont-be-getting-another-sotomayor-anytime-soon/"
+  },
+  {
+    "title": "Senate Forecast",
+    "length": "long",
+    "color": "black",
+    "shape": "square",
+    "type": "graphic",
+    "pub_date": "2014-11-01 12:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2014/11/senate_histogram_1102.png",
+    "url": "http://fivethirtyeight.com/interactives/senate-forecast/"
+  },
+  {
+    "title": "Sneakers",
+    "length": "long",
+    "color": "black",
+    "shape": "triangle",
+    "type": "graphic",
+    "pub_date": "2014-10-17 12:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2014/10/chow-feature-sneaker-1.gif?w=1024",
+    "url": "http://fivethirtyeight.com/features/you-see-sneakers-these-guys-see-hundreds-of-millions-in-resale-profit/"
+  },
+  {
+    "title": "NFL domestic violence",
+    "length": "long",
+    "color": "black",
+    "shape": "circle",
+    "type": "words",
+    "pub_date": "2014-08-28 12:00",
+    "img": "/images/nfl-suspensions.png",
+    "url": "http://fivethirtyeight.com/features/nfl-domestic-violence-policy-suspensions/"
+  },
+  {
+    "title": "What Makes Nigel Richards The Best Scrabble Player On Earth",
+    "length": "long",
+    "color": "black",
+    "shape": "square",
+    "type": "graphic",
+    "pub_date": "2014-08-08 12:00",
+    "img": "/images/scrabble.png",
+    "url": "http://fivethirtyeight.com/features/what-makes-nigel-richards-the-best-scrabble-player-on-earth/"
+  },
+  {
+    "title": "2014 Men's World Cup Predictions",
+    "length": "short",
+    "color": "black",
+    "shape": "triangle",
+    "type": "graphic",
+    "pub_date": "2014-06-02 14:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2015/12/2014worldcup-landing.png",
+    "url": "http://fivethirtyeight.com/interactives/world-cup/"
+  },
+  {
+    "title": "Baby Names",
+    "length": "long",
+    "color": "black",
+    "shape": "circle",
+    "type": "graphic",
+    "pub_date": "2014-05-29 12:00",
+    "img": "https://espnfivethirtyeight.files.wordpress.com/2014/05/silver-feature-most-common-women-namesbanner.png?w=1024",
+    "url": "http://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/"
+  },
+  {
+    "title": "Low Pay Limits Player Experience in National Women’s Soccer League",
+    "length": "long",
+    "color": "black",
+    "shape": "square",
+    "type": "words",
+    "pub_date": "2014-03-24 12:00",
+    "img": "/images/nwsl.png",
+    "url": "http://fivethirtyeight.com/datalab/low-pay-limits-player-experience-in-national-womens-soccer-league/"
+  },
+  {
+    "title": "How To Debug A Jet",
+    "length": "short",
+    "color": "black",
+    "shape": "triangle",
+    "type": "graphic",
+    "pub_date": "2014-02-14 12:00",
+    "img": "/images/airbus.png",
+    "url": "http://www.bloomberg.com/bw/articles/2014-02-13/how-airbus-is-debugging-the-a350#p2"
+  },
+  {
+    "title": "Queens In A Foreign Land",
+    "length": "short",
+    "color": "black",
+    "shape": "circle",
+    "type": "words",
+    "pub_date": "2014-02-01 12:00",
+    "img": "/images/tyreso3.png",
+    "url": "http://deadspin.com/can-womens-pro-soccer-work-in-america-an-investigatio-1521327882"
+  },
+  {
+    "title": "Bitcoin Mining Game",
+    "length": "short",
+    "color": "white",
+    "shape": "square",
+    "type": "graphic",
+    "pub_date": "2014-01-13 12:00",
+    "img": "/images/bitcoin.jpg",
+    "url": "http://www.bloomberg.com/bw/articles/2014-01-13/interactive-simulation-how-to-mine-bitcoin"
+  },
+  {
+    "title": "2014 World GDP",
+    "length": "long",
+    "color": "black",
+    "shape": "triangle",
+    "type": "graphic",
+    "pub_date": "2013-11-13 12:00",
+    "img": "/images/wideworld.png",
+    "url": "http://www.bloomberg.com/bw/articles/2013-11-14/2014-outlook-world-economic-growth-map"
+  },
+  {
+    "title": "The Drone War",
+    "length": "long",
+    "color": "black",
+    "shape": "circle",
+    "type": "graphic",
+    "pub_date": "2013-08-13 12:00",
+    "img": "/images/drones.png",
+    "url": "http://www.bloomberg.com/bw/articles/2013-05-23/the-drone-war-a-comprehensive-map-of-lethal-u-dot-s-dot-attacks"
+  },
+  {
+    "title": "Jay-Z Is Right: Most Rappers Are Lying",
+    "length": "long",
+    "color": "black",
+    "shape": "square",
+    "type": "grapic",
+    "pub_date": "2013-07-13 12:00",
+    "img": "/images/jayz.jpg",
+    "url": "http://www.bloomberg.com/bw/articles/2013-07-09/jay-z-is-right-most-rappers-are-lying-about-their-money"
+  },
+  {
+    "title": "A Long Wait On Death Row",
+    "length": "short",
+    "color": "black",
+    "shape": "triangle",
+    "type": "graphic",
+    "pub_date": "2013-05-13 12:00",
+    "img": "/images/deathrow.png",
+    "url": "http://www.bloomberg.com/bw/articles/2013-05-02/a-long-wait-on-death-row"
+  },
+  {
+    "title": "The Bloomberg Businessweek 50",
+    "length": "long",
+    "color": "black",
+    "shape": "circle",
+    "type": "graphic",
+    "pub_date": "2013-02-18 12:00",
+    "img": "/images/bbw.png",
+    "url": "http://www.bloomberg.com/bw/articles/2013-02-14/the-bloomberg-businessweek-50"
+  },
+  {
+    "title": "The Rise of Long-Term Joblessness",
+    "length": "long",
+    "color": "black",
+    "shape": "square",
+    "type": "graphic",
+    "pub_date": "2013-02-13 12:00",
+    "img": "/images/joblessness.jpg",
+    "url": "http://www.bloomberg.com/bw/articles/2013-02-07/the-rise-of-long-term-joblessness"
+  },
+  {
+    "title": "Fighting Roe v. Wade",
+    "length": "short",
+    "color": "black",
+    "shape": "triangle",
+    "type": "graphic",
+    "pub_date": "2013-01-13 12:00",
+    "img": "/images/abortion.png",
+    "url": "http://www.bloomberg.com/bw/articles/2013-01-17/fighting-roe-v-dot-wade"
+  },
+  {
+    "title": "Why No One Knows How Much Money Musicians Are Making Now",
+    "length": "short",
+    "color": "white",
+    "shape": "circle",
+    "type": "words",
+    "pub_date": "2012-10-13 12:00",
+    "img": "/images/biebs2.jpg",
+    "url": "http://www.buzzfeed.com/atmccann/why-no-one-knows-how-much-money-musicians-are-maki#.tqxRv6k1E"
+  },
+  {
+    "title": "Your Brain On Google And Facebook Ads",
+    "length": "long",
+    "color": "white",
+    "shape": "square",
+    "type": "words",
+    "pub_date": "2012-09-13 12:00",
+    "img": "/images/brain.gif",
+    "url": "http://www.buzzfeed.com/atmccann/this-is-your-brain-on-google-and-facebook-ads-8c7c#.lfonxOmpL"
+  },
+  {
+    "title": "How Your Phone Screen Shatters",
+    "length": "short",
+    "color": "white",
+    "shape": "triangle",
+    "type": "words",
+    "pub_date": "2012-08-13 12:00",
+    "img": "/images/shatter.png",
+    "url": "http://www.buzzfeed.com/atmccann/how-your-phones-screen-shatters#.ccpGJdxXg"
+  }
+]
