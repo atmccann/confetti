@@ -3,13 +3,41 @@
 // App-level styles go here
 
 body {
-    background-color: #fa4a5a;
+    font-family: Helvetica;
+}
+
+.social-btns {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+a.social {
+    width: 35px;
+    margin: 3px 6px 0px 0px;
+    border-bottom: none;
+
+    svg {
+        width: 30px;
+        height: 30px;
+
+        &:hover path {
+            fill: #ffe100;
+        }
+    }
+
+    &:hover {
+        border-bottom: none;
+    }
+
 }
 
 .projects {
 
     flex-wrap: wrap;
     display: flex;
+    width: 100%;
+
 
     a {
         display: block;
@@ -17,19 +45,73 @@ body {
 
     .project {
 
-        margin: 50px;
+        margin: 35px;
+
+        @include breakpoint($M) {
+            width: 100%
+        }
+
+        &.red {
+            border: 5px solid #fa4a5a;
+        }
+
+        &.yellow {
+            border: 5px solid #ffe100;
+        }
+
+        &.green {
+            border: 5px solid #44ab43;
+        }
+
+        &.blue {
+            border: 5px solid #0068F8;
+        }
+
+        &.letter {
+            font-size: 50px;
+            font-weight: bold;
+            text-transform: uppercase;
+
+            @include breakpoint($ML) {
+                color: red;
+            }
+
+            &.left {
+                -ms-transform: rotate(-21deg); /* IE 9 */
+                -webkit-transform: rotate(-21deg); /* Chrome, Safari, Opera */
+                transform: rotate(-21deg);
+            }
+
+            &.right {
+                -ms-transform: rotate(7deg); /* IE 9 */
+                -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+                transform: rotate(7deg);
+            }
+        }
 
         &.cir {
             width: 100px;
             height: 100px;
             border-radius: 50%;
 
+            @include breakpoint($M) {
+                width: 100%
+            }
+
+
+        &:hover {
+            border: 5px solid #ffe100;
+            cursor: pointer;
+        }
+
         }
 
         &.tr {
             width: 232px; 
             height: 180px; 
-            overflow: hidden; 
+            overflow: hidden;
+            transform: rotate(-14deg); 
+            border-bottom: 5px solid #0068F8;
 
             .one {
                 position: relative; 
@@ -37,7 +119,15 @@ body {
                 transform: rotate(45deg) skew(10deg,10deg); 
                 width: 200px;
                 height: 200px;
-                margin: 81px 0 0 16px;
+                margin: 83px 0 0 14px;
+                border-left: 5px solid #0068F8;
+                border-top: 5px solid #0068F8;
+
+                &:hover {
+                    border-left: 5px solid #ffe100;
+                    border-top: 5px solid #ffe100;
+                    cursor: pointer;
+                }
             }
 
             .two {
@@ -50,6 +140,7 @@ body {
                 background-size: 100%;
                 background-position: center top;
                 transform: skew(-10deg,-10deg) rotate(-90deg);
+
             }
         }
 
@@ -59,6 +150,19 @@ body {
             -ms-transform: rotate(7deg); /* IE 9 */
             -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
             transform: rotate(7deg);
+
+        &:hover {
+            border: 5px solid #ffe100;
+            cursor: pointer;
+        }
+
         }
     }
+}
+
+.btm {
+    margin: 15px;
+    padding-top: 15px;
+    border-top: 2px solid #222;
+    letter-spacing: 1px;
 }
